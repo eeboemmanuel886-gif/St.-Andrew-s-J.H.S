@@ -27,8 +27,9 @@ This project is a morden web application built with:
 To get the development server runing locally:
 
 1. Install the dependencies:
- ```brah npm 
- install```
+ ```bash
+ npm install
+ ```
 
 
 2. Run the development server:
